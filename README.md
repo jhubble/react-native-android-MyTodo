@@ -2,6 +2,8 @@
 Simple todo list using react native android
 Inspired by iOS todo: https://github.com/hellokoding/todoapp-reactnative.
 
+Initial display only has a new task box. New items can be entered and then checked off when they are done.
+
 To use:
 * Follow instructions under react-native etting Started Page: https://facebook.github.io/react-native/docs/getting-started.html
   Be sure to click the "Building Projects with Native Code" tab to follow instructions to install the emulator
